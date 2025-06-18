@@ -10,4 +10,6 @@ This project implements a CNN based image super-resolution model, designed to wo
   - Skip connection: input added back to output (residual learning)
 
 ## Dependencies
-```bash pip install tensorflow numpy opencv-python
+```bash
+pip install tensorflow numpy opencv-python
+```
