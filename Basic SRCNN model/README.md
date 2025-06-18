@@ -32,5 +32,3 @@ Newer models like EDSR or ESRGAN:
 - Learn to upscale more accurately
 - Create sharper and more realistic images
 - Use deeper layers and better training techniques
-
-> This model is great for learning and small projects, but for best results, a more advanced model is recommended.
