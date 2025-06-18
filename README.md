@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Super Resolution Model
 This project implements a CNN based image super-resolution model, designed to work with RGB images.
 
@@ -36,5 +34,3 @@ Newer models like EDSR or ESRGAN:
 - Use deeper layers and better training techniques
 
 > This model is great for learning and small projects, but for best results, a more advanced model is recommended.
-
->>>>>>> 637831838be52ee10b1949b2e9ba2c0d5b57256c
