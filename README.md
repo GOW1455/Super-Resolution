@@ -13,3 +13,6 @@ This project implements a CNN based image super-resolution model, designed to wo
 ```bash
 pip install tensorflow numpy opencv-python
 ```
+
+## Reference
+- **SRCNN** — Dong et al. (2014): [Paper](https://arxiv.org/abs/1501.00092)
