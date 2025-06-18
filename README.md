@@ -1,1 +1,10 @@
-This is a self project using ml and image processing to convert low resolution images to higher resolution images
+# Super Resolution Model
+This project implements a CNN based image super-resolution model, designed to work with RGB images.
+## 📐 Model Architecture
+
+- Input: RGB low-resolution image  
+- Layers:
+  - Conv2D (64 filters, 3×3) + ReLU
+  - Repeated Conv2D blocks with ReLU (configurable depth)
+  - Final Conv2D (3 filters, 3×3)
+  - Skip connection: input added back to output (residual learning)
